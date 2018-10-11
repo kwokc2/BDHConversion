@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BDHConversion</string>
+    <string name="hex">Hex</string>
+    <string name="convert">Convert</string>
+    <string name="binary">Binary</string>
+    <string name="decimal">Decimal</string>
+</resources>
